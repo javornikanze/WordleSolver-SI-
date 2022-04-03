@@ -1,0 +1,1 @@
+V kodi spremeni stringe "zelene", "oranzne" in "sive" kot jih imaš v igri.
